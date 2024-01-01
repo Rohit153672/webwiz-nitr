@@ -1,2 +1,1 @@
-# webwiz-nitr
-to do task of webwiz nitr
+# this is my local repo
